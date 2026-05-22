@@ -97,7 +97,7 @@ Em um ambiente SOA, serviços compartilhados são a norma, não a exceção. A a
 
 ---
 
-*Disciplina: Arquitetura Orientada a Serviços — SOA e Web Services*
-*Professor: Luiz Santos*
-*Aluno: Belicio Batista Cardoso*
-*Data: 22 de maio de 2026*
+- *Disciplina: Arquitetura Orientada a Serviços — SOA e Web Services*.
+- *Professor: Luiz Santos*.
+- *Aluno: Belicio Batista Cardoso*.
+- *Data: 22 de maio de 2026*.
